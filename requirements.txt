@@ -1,6 +1,6 @@
 streamlit
 numpy
 opencv-python
-skimage
+scikit-image
 keras
 IPython
