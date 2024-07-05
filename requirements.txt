@@ -2,5 +2,6 @@ streamlit
 numpy
 opencv-python
 scikit-image
+tensorflow
 keras
 IPython
