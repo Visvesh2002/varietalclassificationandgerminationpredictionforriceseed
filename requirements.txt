@@ -2,6 +2,6 @@ streamlit
 numpy
 opencv-python
 scikit-image
-tensorflow
+tensorflow==2.16.1
 keras
 IPython
