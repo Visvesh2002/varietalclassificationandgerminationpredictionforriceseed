@@ -11,7 +11,7 @@ from keras.models import load_model
 from IPython.display import display, Image
 
 # Load your trained model for image classification
-model = load_model("/Users/visvesh/Downloads/model_resnet50_augmented (1).h5")
+model = load_model("https://drive.google.com/file/d/1RsQJtu6xW_CRSzPSwj_6UlbuIZ-Vkkp7/view?usp=drive_link")
 
 # Define your class names here
 class_names = ['AP', 'ATP', 'IR20', 'KO50']
